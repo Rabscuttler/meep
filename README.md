@@ -38,3 +38,4 @@ We kindly request that you cite the following paper in any published work for wh
 ## Documentation
 
 See the [manual on readthedocs](https://meep.readthedocs.io/en/latest) for the latest documentation.
+.
