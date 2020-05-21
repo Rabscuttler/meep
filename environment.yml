@@ -3,3 +3,11 @@ channels:
   - conda-forge
 dependencies:
   - pymeep
+  - pip
+  - pip:
+    - PyMieScatt
+    - autograd
+    - matplotlib
+    - nlopt
+    - numpy
+    - scipy
