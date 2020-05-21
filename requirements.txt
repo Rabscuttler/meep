@@ -1,7 +1,0 @@
-PyMieScatt
-autograd
-matplotlib
-meep
-nlopt
-numpy
-scipy
